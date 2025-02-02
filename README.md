@@ -6,8 +6,7 @@ The **FPL Metric Analysis** project was created to determine which metrics are m
 ## Live Dashboard
 
 You can view the interactive Tableau dashboard showcasing the analysis here:  
-[**View the FPL Metric Analysis Dashboard**](https://public.tableau.com/your_dashboard_link)  
-*(Replace the URL above with your actual Tableau Public link.)*
+[**View the FPL Metric Analysis Dashboard**](https://public.tableau.com/app/profile/arron.velu3112/viz/FPLMetricAnalysis/FPLMetricAnalysis?publish=yes)  
 
 ## Data Collection
 
